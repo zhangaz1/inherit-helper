@@ -1,0 +1,2 @@
+# inherit-helper
+inherit helper
