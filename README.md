@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/zhangaz1/inherit-helper.svg?branch=master)](https://travis-ci.org/zhangaz1/inherit-helper)
 
-# inherit-helper()
+# inherit-helper
 
 simple inherit
 
